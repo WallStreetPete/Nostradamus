@@ -22,8 +22,7 @@ The Random Forest classifier model was trained and optimised with the **scikit-l
 
 |                                  | Performance Indicators Summary |
 |----------------------------------|--------------------------------|
-| Return Buy and Hold (%)          | 273.94                         |
-| Return Buy and Hold Ann. (%)     | 91.5                           |
+| Return Buy and Hold (%)          | 69.6                           |
 | Return Trading Strategy (%)      | 20.54                          |
 | Return Trading Cumulative. (%)   | 65.12                          |
 | Sharpe Ratio                     | 1.82                           |
