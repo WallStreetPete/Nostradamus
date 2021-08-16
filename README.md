@@ -24,14 +24,15 @@ The Random Forest classifier model was trained and optimised with the **scikit-l
 |----------------------------------|--------------------------------|
 | Return Buy and Hold (%)          | 273.94                         |
 | Return Buy and Hold Ann. (%)     | 91.5                           |
-| Return Trading Strategy (%)      | 1555.54                        |
-| Return Trading Strategy Ann. (%) | 298.53                         |
-| Sharpe Ratio                     | 0.85                           |
-| Hit Ratio (%)                    | 93.0                           |
-| Average Trades Profit (%)        | 3.99                           |
-| Average Trades Loss (%)          | -1.15                          |
-| Max Drawdown (%)                 | -7.69                          |
-| Days Max Drawdown Recovery       | 2                              |
+| Return Trading Strategy (%)      | 20.54                          |
+| Return Trading Cumulative. (%)   | 65.12                          |
+| Sharpe Ratio                     | 1.82                           |
+| Sortino Ratio                    | 2.90                           |
+| Hit Ratio (%)                    | 72.00                          |
+| Average Trades Profit ($)        | 1799.22                        |
+| Annual Volatility                | 0.11                           |
+| Total Profit/Loss                | 64772                          |
+| Test Dataset Size                | 641                            |
 
 ![drawdown](https://user-images.githubusercontent.com/68741036/127544806-98215a1a-710d-408e-9073-e8d8a7c6bef7.png)
 
