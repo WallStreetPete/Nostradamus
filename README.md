@@ -31,7 +31,7 @@ The Random Forest classifier model was trained and optimised with the **scikit-l
 | Hit Ratio (%)                    | 72.00                          |
 | Average Trades Profit ($)        | 1799.22                        |
 | Annual Volatility                | 0.11                           |
-| Total Profit/Loss                | 64772                          |
+| Total Profit/Loss ($)            | 64772                          |
 | Test Dataset Size                | 641                            |
 
 ![drawdown](https://user-images.githubusercontent.com/68741036/127544806-98215a1a-710d-408e-9073-e8d8a7c6bef7.png)
